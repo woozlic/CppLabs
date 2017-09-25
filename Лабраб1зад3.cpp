@@ -22,7 +22,6 @@ int main()
 		{
 			cout << i << endl;
 		} 
-		sm = 0;
 	}
     return 0;
 }
