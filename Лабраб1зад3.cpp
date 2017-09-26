@@ -17,7 +17,7 @@ int main()
 	for (int i = 100; i < 1000; i++)
 	{
 		sm = i % 10 + (i % 100 / 10) + i / 100;
-		//cout << i << " " << sm << endl;
+		
 		if (sm == c)
 		{
 			cout << i << endl;
